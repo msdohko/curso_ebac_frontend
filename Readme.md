@@ -3,6 +3,7 @@
 Criação do projeto e treinamento de comandos para o git.
 
 Como foi feito:
+    
     mkdir = parar criar a pasta
     
     git init = para iniciar um novo repositório
